@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.hl7</groupId>
+  <artifactId>fhir</artifactId>
+  <versioning>
+    <release>v0.11-1711</release>
+    <versions>
+      <version>v0.11-1711</version>
+    </versions>
+    <lastUpdated>20130818234225</lastUpdated>
+  </versioning>
+</metadata>
