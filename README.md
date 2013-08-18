@@ -5,5 +5,5 @@ my maven repo
 
 Projects available:
 
-1. [org.json.JSON](./org/hl7/fhir)
-2. [org.hl7.fhir](./org.json/JSON)
+1. [org.json.JSON](./org/json/JSON)
+2. [org.hl7.fhir](./org/hl7/fhir)
