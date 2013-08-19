@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.json</groupId>
-    <artifactId>JSON</artifactId>
+    <artifactId>json</artifactId>
     <version>20110202</version>
     <packaging>jar</packaging>
 
